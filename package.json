@@ -1,6 +1,6 @@
 {
   "name": "extra-path",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Standard utility methods for path.",
   "main": "index.js",
   "scripts": {
