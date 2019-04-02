@@ -1,0 +1,26 @@
+{
+  "name": "extra-path",
+  "version": "0.0.1",
+  "description": "Standard utility methods for path.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/extra-path.git"
+  },
+  "keywords": [
+    "extra",
+    "path",
+    "utility",
+    "method",
+    "merferry"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/nodef/extra-path/issues"
+  },
+  "homepage": "https://github.com/nodef/extra-path#readme"
+}
