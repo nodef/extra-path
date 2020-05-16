@@ -103,3 +103,37 @@ https://www.npmjs.com/package/nanomatch
 https://www.npmjs.com/package/file-path-helper
 https://www.npmjs.com/package/manage-path
 https://www.npmjs.com/package/locate-path
+
+
+const path = require('path');
+
+
+// '.', 'src/dir/file.js', 'out' => 'out/dir/file.js'
+function pathReplace(root, from, ...to) {
+  var rel = path.relative(root, from);
+  var i = rel.indexOf(path.sep);
+  rel = i<0? '' : rel.substring(i+1);
+  return path.join(root, ...to, rel);
+}
+module.exports = pathReplace;
+
+
+const path = require('path');
+
+function pathReplaceExt(p, ext) {
+  var e = path.extname(p);
+  return p.slice(0, p.length-e.length) + ext;
+}
+module.exports = pathReplaceExt;
+
+
+const path = require('path');
+
+
+function pathSplit(x) {
+  var d = path.dirname(x);
+  var e = path.extname(x);
+  var f = path.basename(x, e);
+  return [d, f, e];
+}
+module.exports = pathSplit;
