@@ -14,13 +14,6 @@ https://www.npmjs.com/package/resolve-from
 https://www.npmjs.com/package/resolve-cwd
 https://www.npmjs.com/package/resolve-package-path
 
-EXTRA-FS
-https://www.npmjs.com/package/hasbin (which)
-https://www.npmjs.com/package/true-case-path (trueCase)
-https://www.npmjs.com/package/path-type (stat)
-https://www.npmjs.com/package/find-up
-https://www.npmjs.com/package/locate-path
-
 EXTRA-NPM
 https://www.npmjs.com/package/npm-run-path
 
