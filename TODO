@@ -14,11 +14,7 @@ https://www.npmjs.com/package/resolve-from
 https://www.npmjs.com/package/resolve-cwd
 https://www.npmjs.com/package/resolve-package-path
 
-EXTRA-NPM
-https://www.npmjs.com/package/npm-run-path
-
 https://www.npmjs.com/package/file-path-helper
-
 - https://www.npmjs.com/package/path-match
 - https://www.npmjs.com/package/@basaltjs/path-to-regexp-es6
 - https://www.npmjs.com/package/@ryancavanaugh/path-to-regexp
