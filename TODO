@@ -18,11 +18,6 @@ EXTRA-NPM
 https://www.npmjs.com/package/npm-run-path
 
 https://www.npmjs.com/package/file-path-helper
-Date Methods
-parseDate
-getDates
-diffDays
-
 
 - https://www.npmjs.com/package/path-match
 - https://www.npmjs.com/package/@basaltjs/path-to-regexp-es6
