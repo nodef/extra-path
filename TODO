@@ -35,3 +35,60 @@ Date Methods
 parseDate
 getDates
 diffDays
+
+
+- https://www.npmjs.com/package/path-match
+- https://www.npmjs.com/package/@basaltjs/path-to-regexp-es6
+- https://www.npmjs.com/package/@ryancavanaugh/path-to-regexp
+- https://www.npmjs.com/package/path-to-template
+- https://www.npmjs.com/package/frontexpress-path-to-regexp
+- https://www.npmjs.com/package/path-to-from-params
+- https://www.npmjs.com/package/path-to-params
+- https://www.npmjs.com/package/express-param-capture
+- https://www.npmjs.com/package/routematch
+- https://www.npmjs.com/package/path-to-mongodb
+- https://www.npmjs.com/package/path-pattern
+- https://www.npmjs.com/package/@mck-p/path-to-regexp-ts
+- https://www.npmjs.com/package/@marvinh/path-to-regexp
+- https://www.npmjs.com/package/@nathanfaucett/path_to_regexp
+- https://www.npmjs.com/package/path-to-regexp-loader
+- https://www.npmjs.com/package/pathtore
+- https://www.npmjs.com/package/rest-to-regexp
+- https://www.npmjs.com/package/routeswitch
+- https://www.npmjs.com/package/regexparam
+- https://www.npmjs.com/package/path-to-regexp-es6
+- https://www.npmjs.com/package/path-to-regexp
+- https://www.npmjs.com/package/is-absolute
+- https://www.npmjs.com/package/is-relative
+- https://github.com/sindresorhus/filename-reserved-regex
+- https://www.npmjs.com/package/filename-regex
+- https://www.npmjs.com/package/regex-filename
+- https://www.npmjs.com/package/filename-regex
+- https://www.npmjs.com/package/filename-reserved-regex
+- https://www.npmjs.com/package/unc-path-regex
+- https://www.npmjs.com/package/is-unc-path
+- https://www.npmjs.com/package/path-regex
+- https://www.npmjs.com/package/dirname-regex
+- https://www.npmjs.com/package/regex-basename
+- https://www.npmjs.com/package/regex-filename-windows
+- https://www.npmjs.com/package/regex-filename-posix
+- https://www.npmjs.com/package/regex-dirname-windows
+- https://www.npmjs.com/package/regex-dirname-posix
+- https://www.npmjs.com/package/regex-extname-windows
+- https://www.npmjs.com/package/regex-extname
+- https://www.npmjs.com/package/regex-dirname
+- https://www.npmjs.com/package/regex-extname-posix
+- https://www.npmjs.com/package/regex-basename-windows
+- https://www.npmjs.com/package/regex-basename-posix
+- https://www.npmjs.com/package/path-root-regex
+- https://www.npmjs.com/package/simple-path-expressions
+- https://www.npmjs.com/package/pathetic
+- https://www.npmjs.com/package/path-to-regexp-with-reversible-keys
+- https://github.com/regexhq/path-regex
+- https://github.com/regexhq/dirname-regex
+- https://www.npmjs.com/package/dotdir-regex
+- https://www.npmjs.com/package/is-valid-path
+- https://www.npmjs.com/package/is-dotfile
+- https://www.npmjs.com/package/valid-filename
+- https://www.npmjs.com/package/dotfile-regex
+- https://www.npmjs.com/package/wildcard-regex
