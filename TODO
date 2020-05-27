@@ -24,9 +24,6 @@ https://www.npmjs.com/package/locate-path
 EXTRA-NPM
 https://www.npmjs.com/package/npm-run-path
 
-EXTRA-OBJECT
-https://www.npmjs.com/package/object-path
-
 https://www.npmjs.com/package/file-path-helper
 Date Methods
 parseDate
