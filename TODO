@@ -7,9 +7,6 @@ fileNameWithPrefix()
 new Path(path, Path.windows);
 new Path(path, Path.posix);
 
-EXTRA-STRING
-https://github.com/sindresorhus/slugify
-
 EXTRA-REQUIRE
 https://www.npmjs.com/package/rootpath (addroot)
 https://www.npmjs.com/package/parent-module
