@@ -70,3 +70,6 @@ https://www.npmjs.com/package/file-path-helper
 - https://www.npmjs.com/package/valid-filename
 - https://www.npmjs.com/package/dotfile-regex
 - https://www.npmjs.com/package/wildcard-regex
+
+
+x-path	path	An extention for native node path module.
