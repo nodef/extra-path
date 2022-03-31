@@ -12,6 +12,7 @@ const outdts = 'index.d.ts';
 
 
 
+
 // Is given file a submodule?
 function isSubmodule(pth) {
   if (/^_|index.ts$/.test(pth)) return false;
