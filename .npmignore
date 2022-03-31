@@ -1,2 +1,15 @@
-# jekyll config
-_config.yml
+# Source only
+.gitmodules
+src/
+data/
+wiki/
+tests/
+TODO
+
+# Build
+.build/
+.travis.yml
+.coveralls.yml
+tsconfig.json
+jestconfig.json
+rollup.config.js
