@@ -31,7 +31,7 @@ function filenameKeywords(fil) {
 // Get export keywords for main/sub package.
 function exportKeywords(fil) {
   var txt  = fs.readFileTextSync(`src/${fil}`);
-  var exps = javascript.exportSymbols(txt);
+  var exps = javascript.jsdocSymbols(txt).filter(s => s.export);
   return exps.map(e => path.keywordname(e.name));
 }
 
