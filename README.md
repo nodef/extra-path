@@ -24,7 +24,7 @@ function main() {
   path.symbolname('/home/user/file+name.txt');
   // → file_name
 
-  path.symbolname('/home/user/file+name.txt');
+  path.keywordname('/home/user/file+name.txt');
   // → file-name
 }
 main();
