@@ -1,4 +1,4 @@
-Standard utility methods for path.<br>
+Useful additions to inbuilt [path] module.<br>
 📦 [Node.js](https://www.npmjs.com/package/extra-path),
 🌐 [Web](https://www.npmjs.com/package/extra-path.web),
 📜 [Files](https://unpkg.com/extra-path/),
@@ -8,9 +8,10 @@ This package is available in both *Node.js* and *Web* formats. The web format
 is exposed as `extra_path` standalone variable and can be loaded from
 [jsDelivr CDN].
 
-> Stability: [Experimental](https://www.youtube.com/watch?v=L1j93RnIxEo).
-
+[path]: https://nodejs.org/api/path.html
 [jsDelivr CDN]: https://cdn.jsdelivr.net/npm/extra-path.web/index.js
+
+> Stability: [Experimental](https://www.youtube.com/watch?v=L1j93RnIxEo).
 
 <br>
 
@@ -44,6 +45,7 @@ main();
 
 <br>
 <br>
+
 
 [![](https://img.youtube.com/vi/8oXhShuIjrQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=8oXhShuIjrQ)
 

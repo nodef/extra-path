@@ -6,13 +6,18 @@ src/
 data/
 wiki/
 tests/
+unused/
+test.js
+CITATION.cff
 TODO
 
 # Build
 .build/
+coverage/
 .travis.yml
 .coveralls.yml
 tsconfig.json
 jestconfig.json
+jest.config.js
 rollup.config.js
 build.js
