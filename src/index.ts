@@ -1,6 +1,6 @@
 import {basename, extname} from "path";
-import {kebabCase}         from "./_string";
 export {posix, win32}      from "path";
+import {toKebabCase}       from "extra-string";
 
 
 
@@ -52,7 +52,7 @@ export function filename(pth: string): string {
  * @returns symbol name
  */
 export function symbolname(pth: string) {
-  return filename(pth).replace(/[^\w$]+/g, '_');
+  return filename(pth).replace(/[^\w$]+/g, "_");
 }
 
 
@@ -62,5 +62,5 @@ export function symbolname(pth: string) {
  * @returns keyword name
  */
 export function keywordname(pth: string): string {
-  return kebabCase(filename(pth)).replace(/\W/g, '');
+  return toKebabCase(filename(pth));
 }
