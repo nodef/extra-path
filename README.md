@@ -49,6 +49,7 @@ main();
 
 
 [![](https://img.youtube.com/vi/8oXhShuIjrQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=8oXhShuIjrQ)<br>
+[![DOI](https://zenodo.org/badge/179137165.svg)](https://zenodo.org/badge/latestdoi/179137165)
 [![Coverage Status](https://coveralls.io/repos/github/nodef/extra-path/badge.svg?branch=master)](https://coveralls.io/github/nodef/extra-path?branch=master)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/9fd9e76b2bcd8ebf83bc/test_coverage)](https://codeclimate.com/github/nodef/extra-path/test_coverage)
 [![Maintainability](https://api.codeclimate.com/v1/badges/9fd9e76b2bcd8ebf83bc/maintainability)](https://codeclimate.com/github/nodef/extra-path/maintainability)
