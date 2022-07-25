@@ -2,7 +2,8 @@ Useful additions to inbuilt [path] module.<br>
 📦 [Node.js](https://www.npmjs.com/package/extra-path),
 🌐 [Web](https://www.npmjs.com/package/extra-path.web),
 📜 [Files](https://unpkg.com/extra-path/),
-📰 [Docs](https://nodef.github.io/extra-path/).
+📰 [Docs](https://nodef.github.io/extra-path/),
+📘 [Wiki](https://github.com/nodef/extra-bit/wiki/).
 
 This package is available in both *Node.js* and *Web* formats. The web format
 is exposed as `extra_path` standalone variable and can be loaded from
@@ -20,13 +21,13 @@ const path = require('extra-path');
 
 function main() {
   path.filename('/home/user/file+name.txt');
-  // → file+name
+  // → 'file+name'
 
   path.symbolname('/home/user/file+name.txt');
-  // → file_name
+  // → 'file_name'
 
   path.keywordname('/home/user/file+name.txt');
-  // → file-name
+  // → 'file-name'
 }
 main();
 ```
