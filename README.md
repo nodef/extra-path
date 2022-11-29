@@ -56,6 +56,6 @@ main();
 [![Maintainability](https://api.codeclimate.com/v1/badges/9fd9e76b2bcd8ebf83bc/maintainability)](https://codeclimate.com/github/nodef/extra-path/maintainability)
 
 
-[filename]: https://nodef.github.io/extra-path/functions/filename.html
-[symbolname]: https://nodef.github.io/extra-path/functions/symbolname.html
-[keywordname]: https://nodef.github.io/extra-path/functions/keywordname.html
+[filename]: https://github.com/nodef/extra-path/wiki/filename
+[symbolname]: https://github.com/nodef/extra-path/wiki/symbolname
+[keywordname]: https://github.com/nodef/extra-path/wiki/keywordname
