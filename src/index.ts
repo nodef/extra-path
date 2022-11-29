@@ -1,34 +1,36 @@
 import {basename, extname} from "path";
-export {posix, win32}      from "path";
 import {toKebabCase}       from "extra-string";
 
 
 
 
-// TYPES
-// =====
-
-export {FormatInputPathObject}    from "path";
-export {ParsedPath, PlatformPath} from "path";
-
-
-
-// PROPERTIES
+// RE-EXPORTS
 // ==========
 
-export {delimiter, sep} from "path";
-
-
-
-
-// METHODS
-// =======
-
-export {basename, dirname, extname} from "path";
-export {isAbsolute, relative} from "path";
-export {format, join, parse}  from "path";
-export {normalize, resolve}   from "path";
-export {toNamespacedPath}     from "path";
+export {
+  // Types
+  FormatInputPathObject,
+  ParsedPath,
+  PlatformPath,
+  // Namespaces
+  posix,
+  win32,
+  // Properties
+  delimiter,
+  sep,
+  // Methods
+  basename,
+  dirname,
+  extname,
+  isAbsolute,
+  relative,
+  format,
+  join,
+  parse,
+  normalize,
+  resolve,
+  toNamespacedPath,
+} from "path";
 
 
 
