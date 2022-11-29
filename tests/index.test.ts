@@ -1,7 +1,9 @@
-import * as path     from "../src";
-import {filename}    from "../src";
-import {symbolname}  from "../src";
-import {keywordname} from "../src";
+import * as path from "../src";
+import {
+  filename,
+  symbolname,
+  keywordname,
+} from "../src";
 
 
 
@@ -23,6 +25,9 @@ test("example1", () => {
 
 
 
+
+// NAME
+// ----
 
 test("filename", () => {
   var a = filename("/home/user/open+source.txt");
