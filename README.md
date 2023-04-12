@@ -5,9 +5,9 @@ Useful additions to inbuilt [path] module.<br>
 📰 [Docs](https://nodef.github.io/extra-path/),
 📘 [Wiki](https://github.com/nodef/extra-bit/wiki/).
 
-This package is available in both *Node.js* and *Web* formats. The web format
-is exposed as `extra_path` standalone variable and can be loaded from
-[jsDelivr CDN].
+This package is available in *Node.js* and *Web* formats. To use it on the web,
+simply use the `extra_path` global variable after loading with a `<script>`
+tag from the [jsDelivr CDN].
 
 [path]: https://nodejs.org/api/path.html
 [jsDelivr CDN]: https://cdn.jsdelivr.net/npm/extra-path.web/index.js
@@ -17,16 +17,16 @@ is exposed as `extra_path` standalone variable and can be loaded from
 <br>
 
 ```javascript
-const path = require('extra-path');
+const xpath = require('extra-path');
 
 function main() {
-  path.filename('/home/user/file+name.txt');
+  xpath.filename('/home/user/file+name.txt');
   // → 'file+name'
 
-  path.symbolname('/home/user/file+name.txt');
+  xpath.symbolname('/home/user/file+name.txt');
   // → 'file_name'
 
-  path.keywordname('/home/user/file+name.txt');
+  xpath.keywordname('/home/user/file+name.txt');
   // → 'file-name'
 }
 main();
