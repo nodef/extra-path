@@ -1,6 +1,6 @@
 {
   "name": "extra-path",
-  "version": "1.1.18",
+  "version": "1.1.19",
   "description": "Useful additions to inbuilt path module.",
   "main": "index.js",
   "module": "index.mjs",
@@ -30,15 +30,15 @@
   },
   "homepage": "https://github.com/nodef/extra-path#readme",
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^24.1.0",
-    "@rollup/plugin-node-resolve": "^15.0.2",
-    "@types/jest": "^29.5.0",
-    "@types/node": "^18.15.11",
-    "extra-build": "^2.2.42",
+    "@rollup/plugin-commonjs": "^25.0.7",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@types/jest": "^29.5.6",
+    "@types/node": "^20.8.7",
+    "extra-build": "^2.2.43",
     "extra-string": "^2.1.40",
-    "jest": "^29.5.0",
+    "jest": "^29.7.0",
     "rollup-plugin-cleanup": "^3.2.1",
-    "rollup-plugin-dts": "^5.3.0",
-    "ts-jest": "^29.1.0"
+    "rollup-plugin-dts": "^6.1.0",
+    "ts-jest": "^29.1.1"
   }
 }
