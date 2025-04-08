@@ -54,7 +54,7 @@ main();
 [![Coverage Status](https://coveralls.io/repos/github/nodef/extra-path/badge.svg?branch=master)](https://coveralls.io/github/nodef/extra-path?branch=master)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/9fd9e76b2bcd8ebf83bc/test_coverage)](https://codeclimate.com/github/nodef/extra-path/test_coverage)
 [![Maintainability](https://api.codeclimate.com/v1/badges/9fd9e76b2bcd8ebf83bc/maintainability)](https://codeclimate.com/github/nodef/extra-path/maintainability)
-
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/extra-path)
 
 [filename]: https://github.com/nodef/extra-path/wiki/filename
 [symbolname]: https://github.com/nodef/extra-path/wiki/symbolname
