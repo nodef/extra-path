@@ -1,5 +1,5 @@
-import {basename, extname} from "path";
-import {toKebabCase}       from "extra-string";
+import {basename, extname} from "@std/path";
+import {toKebabCase}       from "@nodef/extra-string";
 
 
 
@@ -9,15 +9,14 @@ import {toKebabCase}       from "extra-string";
 
 export {
   // Types
-  FormatInputPathObject,
-  ParsedPath,
-  PlatformPath,
+  // type FormatInputPathObject,
+  type ParsedPath,
   // Namespaces
-  posix,
-  win32,
+  // posix,
+  // win32,
   // Properties
-  delimiter,
-  sep,
+  DELIMITER as delimiter,
+  SEPARATOR as sep,
   // Methods
   basename,
   dirname,
@@ -30,7 +29,7 @@ export {
   normalize,
   resolve,
   toNamespacedPath,
-} from "path";
+} from "@std/path";
 
 
 
@@ -53,7 +52,7 @@ export function filename(pth: string): string {
  * @param pth file path
  * @returns symbol name
  */
-export function symbolname(pth: string) {
+export function symbolname(pth: string): string {
   return filename(pth).replace(/[^\w$]+/g, "_");
 }
 
