@@ -2,7 +2,7 @@ Useful additions to inbuilt [@std/path] module.<br>
 
 ▌
 📦 [JSR](https://jsr.io/@nodef/extra-path),
-📦 [NPM](https://www.npmjs.com/package/extra-path),
+📦 [NPM](https://www.npmjs.com/package/@nodef/extra-path),
 📰 [Docs](https://jsr.io/@nodef/extra-path/doc).
 
 [@std/path]: https://deno.land/std/path/mod.ts
@@ -42,6 +42,7 @@ xpath.keywordname('/home/user/file+name.txt');
 [![ORG](https://img.shields.io/badge/org-nodef-green?logo=Org)](https://nodef.github.io)
 ![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/extra-path)
 
-[filename]: https://jsr.io/@nodef/extra-boolean/doc/~/filename
-[symbolname]: https://jsr.io/@nodef/extra-boolean/doc/~/symbolname
-[keywordname]: https://jsr.io/@nodef/extra-boolean/doc/~/keywordname
+
+[filename]: https://jsr.io/@nodef/extra-path/doc/~/filename
+[symbolname]: https://jsr.io/@nodef/extra-path/doc/~/symbolname
+[keywordname]: https://jsr.io/@nodef/extra-path/doc/~/keywordname
